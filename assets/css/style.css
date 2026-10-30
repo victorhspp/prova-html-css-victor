@@ -5,8 +5,14 @@
 
 h1{
     color: #222222;
+    font-size: 14px;
 }
 
 p{
     color: #222222;
+    font-size: 12px;
+}
+
+ul{
+    font-size: 10px;
 }
